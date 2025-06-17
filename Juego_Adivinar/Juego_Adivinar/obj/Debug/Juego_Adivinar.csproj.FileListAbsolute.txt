@@ -1,0 +1,10 @@
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\bin\Debug\Juego_Adivinar.exe.config
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\bin\Debug\Juego_Adivinar.exe
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\bin\Debug\Juego_Adivinar.pdb
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\bin\Debug\AdivinaFruta.dll
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\bin\Debug\AdivinaFruta.pdb
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\obj\Debug\Juego_Adivinar.csproj.AssemblyReference.cache
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\obj\Debug\Juego_Adivinar.csproj.CoreCompileInputs.cache
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\obj\Debug\Juego_Ad.66932F2A.Up2Date
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\obj\Debug\Juego_Adivinar.exe
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\Juego_Adivinar\obj\Debug\Juego_Adivinar.pdb

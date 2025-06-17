@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego_Adivinar", "Juego_Adivinar\Juego_Adivinar.csproj", "{BE6421A3-824B-479B-B7DF-C74F799353EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinaFruta", "AdivinaFruta\AdivinaFruta.csproj", "{AE40CCE1-0344-4D60-9279-A784A9951A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6421A3-824B-479B-B7DF-C74F799353EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6421A3-824B-479B-B7DF-C74F799353EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6421A3-824B-479B-B7DF-C74F799353EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6421A3-824B-479B-B7DF-C74F799353EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE40CCE1-0344-4D60-9279-A784A9951A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE40CCE1-0344-4D60-9279-A784A9951A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE40CCE1-0344-4D60-9279-A784A9951A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE40CCE1-0344-4D60-9279-A784A9951A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A45E3106-DBFC-4029-9E08-DF0E717D0D4E}
+	EndGlobalSection
+EndGlobal

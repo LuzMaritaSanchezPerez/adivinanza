@@ -1,0 +1,6 @@
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\AdivinaFruta\bin\Debug\AdivinaFruta.dll
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\AdivinaFruta\bin\Debug\AdivinaFruta.pdb
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\AdivinaFruta\obj\Debug\AdivinaFruta.csproj.AssemblyReference.cache
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\AdivinaFruta\obj\Debug\AdivinaFruta.csproj.CoreCompileInputs.cache
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\AdivinaFruta\obj\Debug\AdivinaFruta.dll
+C:\Users\jhoin\OneDrive\Desktop\Gip\Juego_Adivinar\AdivinaFruta\obj\Debug\AdivinaFruta.pdb
